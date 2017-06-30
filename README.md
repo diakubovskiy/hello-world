@@ -1,2 +1,2 @@
 # hello-world
-Just another repository (updated)
+Just another repository (updated local)
